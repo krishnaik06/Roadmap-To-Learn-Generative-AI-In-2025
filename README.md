@@ -35,17 +35,13 @@
 5. Transformers
 
 ## 5. Starting the Journey Towards Generative AI (GPT4,Mistral 7B, LLAMA, Hugging Face Open Source LLM Models,Google Palm Model)
-![image](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024/assets/20041231/ebaa03ec-4370-4ea0-989d-5314370cd2da)
+1. Generative Tutorials [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://python.langchain.com/docs/get_started/introduction) [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=HEHUpBO8UVc&list=PLA1lVIthbM1D5I6r5uY2K89X1KD2w5LNh)
 
-1. OpenAI [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction) [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=CbpsDMwFG2g&list=PLZoTAELRMXVMTWGW9iS45ZTcMsntos6VO)
+2. Generative Tutorials With AWS [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://python.langchain.com/docs/get_started/introduction) [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=2WOa4_3Bgtw&list=PLZoTAELRMXVP5zpBfH7pab4aB1LbmCM1z&pp=gAQB)
+3. Generative Tutorials With Azure [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://python.langchain.com/docs/get_started/introduction) [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=3SRh2nzN2DM)
+4. Genertaive AI With Google Gemini Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=CC6qMpqgUMU&list=PLZoTAELRMXVNbDmGZlcgCA3a8mRQp5axb)
 
-![image](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024/assets/20041231/986bc005-e6c3-4f41-b678-82e0c0c2aa4a)
 
-
-2. Langchain Tutorials With Projects [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://python.langchain.com/docs/get_started/introduction) [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=4O1rs7mrNDo&list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar)
-
-3. Chainlit [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://docs.chainlit.io/get-started/overview)
-4. Google Gemini [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://ai.google.dev/tutorials/python_quickstart?authuser=1 )
 
 ## 5. Vector Databases And Vector Stores
 
