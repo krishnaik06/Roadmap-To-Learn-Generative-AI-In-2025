@@ -14,7 +14,7 @@
 
 4. Fast API Tutorials [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=WU65u9d-97c&list=PLZoTAELRMXVPgsojPOHF9i0u2L83-m9P7)
 
-## 2. Basic Machine Learning Natural Language Processing (Day 1 - Day 5) [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=w3coRFpyddQ&list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn)
+## 2. Basic Machine Learning Natural Language Processing (Day 1 - Day 5) [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=w3coRFpyddQ&list=PLZoTAEiLRMXVNNrHSKv36Lr3_156yCo6Nn)
 1. Why NLP?
 2. One hot Encoding, Bag Of Words,
 3. TFIDF
